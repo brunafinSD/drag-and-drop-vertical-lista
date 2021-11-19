@@ -1,4 +1,4 @@
-# drag and drog
+# drag and drop
 
 biblioteca:
 react-beautiful-dnd
