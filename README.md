@@ -1,5 +1,4 @@
-# ignite-chapterIV
-drag and drop
+# drag and drog
 
 biblioteca:
 react-beautiful-dnd
