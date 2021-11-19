@@ -6,28 +6,28 @@ export function loadLists() {
         cards: [
           {
             id: 1,
-            content: 'Estudar módulo 01 de NodeJS',
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            content: 'Estudar Boostrap',
+            user: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KawYWGZDL8L9iMDbYD3k0ZjQ3hMWgY_VXZq62c80_Urka3GZbTEOMT-cyNy5ym53rSg&usqp=CAU'
           },
           {
             id: 2,
-            content: 'Criar vídeo para o Youtube ensinando a recriar a interface do Pipefy',
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            content: 'Atualizar projeto',
+            user: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KawYWGZDL8L9iMDbYD3k0ZjQ3hMWgY_VXZq62c80_Urka3GZbTEOMT-cyNy5ym53rSg&usqp=CAU'
           },
           {
             id: 3,
-            content: 'Estudar módulo 03 de React Native',
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            content: 'Ler Readme do projeto',
+            user: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KawYWGZDL8L9iMDbYD3k0ZjQ3hMWgY_VXZq62c80_Urka3GZbTEOMT-cyNy5ym53rSg&usqp=CAU'
           },
           {
             id: 4,
-            content: 'Gravar Aula "NextJS: Utilizando server-side rendering com ReactJS"',
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            content: 'Testar drag and drop horizontal',
+            user: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KawYWGZDL8L9iMDbYD3k0ZjQ3hMWgY_VXZq62c80_Urka3GZbTEOMT-cyNy5ym53rSg&usqp=CAU'
           },
           {
             id: 5,
-            content: 'Gravar testes e deploy ReactJS',
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            content: 'Testar drag and drop de uma lista para outra',
+            user: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KawYWGZDL8L9iMDbYD3k0ZjQ3hMWgY_VXZq62c80_Urka3GZbTEOMT-cyNy5ym53rSg&usqp=CAU'
           },
         ]
       },
@@ -37,8 +37,8 @@ export function loadLists() {
         cards: [
           {
             id: 6,
-            content: 'Recriando clone do Pipefy',
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            content: 'Estudar Typescript',
+            user: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KawYWGZDL8L9iMDbYD3k0ZjQ3hMWgY_VXZq62c80_Urka3GZbTEOMT-cyNy5ym53rSg&usqp=CAU'
           }
         ]
       },
@@ -48,17 +48,17 @@ export function loadLists() {
         cards: [
           {
             id: 7,
-            content: 'Gravar sobre Geolocalização e mapas com React Native',
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            content: 'Chapter IV - ignite',
+            user: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KawYWGZDL8L9iMDbYD3k0ZjQ3hMWgY_VXZq62c80_Urka3GZbTEOMT-cyNy5ym53rSg&usqp=CAU'
           },
           {
             id: 8,
-            content: 'Gravar testes e deploy ReactJS',
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            content: 'Curso de Inglês',
+            user: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KawYWGZDL8L9iMDbYD3k0ZjQ3hMWgY_VXZq62c80_Urka3GZbTEOMT-cyNy5ym53rSg&usqp=CAU'
           },
           {
             id: 9,
-            content: 'Ajustes na biblioteca unform',
+            content: 'Curso Figma',
           }
         ]
       },
@@ -69,15 +69,15 @@ export function loadLists() {
         cards: [
           {
             id: 10,
-            content: 'Gravar aula sobre deploy e CI com React Native',
+            content: 'Estudar Sass',
           },
           {
             id: 12,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Organizar pastas',
           },
           {
             id: 13,
-            content: 'Gravar Aula "Internacionalização de aplicações Node.js, ReactJS e React Native"',
+            content: 'Clonar projeto quick-start',
           }
         ]
       },
